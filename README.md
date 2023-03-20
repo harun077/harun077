@@ -1,16 +1,16 @@
 ![Android App Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/p720x720/264231253_1037847457070490_8952370619778119088_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG8F2a3YBuLaDbFc9idq0w6JAH4XfFVIfkkAfhd8VUh-fr8VvyfIPTFE0hUnJsXrN-YPPwOsfB2fyTCzFnpAKJb&_nc_ohc=Z77CC2nVAioAX8BpqtK&_nc_oc=AQk5Ktn0Ed72DMiUT9tJXQhWYaiRwI2DCnVrH7bg5SfksU_Hsu0nWRYXfGUjfk19-nU&_nc_ht=scontent.fdac136-1.fna&oh=00_AT8IcDvEy9ks4R8GBOqdF-YKS5i2Nmk6_gnRWftnKuC7TA&oe=61EB6AA5)
 
 ### Hi there 👋, I'm Md Harunur Rashid
-#### Android App Developer
+#### Full Stack Web Developer
 
 
-Hello! I’m Md Harunur Rashid. Native Android App Developer with 2 year and Flutter Developer with 6 month of experience specializing in front end and backend development. Experienced with all stages of the development cycle for dynamic app projects.
+Hello! I’m Md Harunur Rashid. Full Stack Web Developer PHP with Laravel Framework. Web Design with 4th year and PHP  Laravel with 6 month of experience specializing in front end and backend development. Experienced with all stages of the development cycle for dynamic web projects.
 
-Having an in-depth knowledge including JAVA, OOP, UI/UX, ANDROID, DART, FLUTTER , REST API . Strong background in management and leadership.
+Having an in-depth knowledge including PHP, LARAVEL, MySQL, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY, OOP, UI/UX, ANDROID, DART, FLUTTER , REST API .
+Skills: PHP/LARAVEL/MySQL/HTML5/BOOTSTRAP/JAVASCRIPT/JQUERY/JAVA/ANDROID/DART/OOP/FLUTTER/UI/UX/
 
-Skills: JAVA/ANDROID/DART/DART(OOP)/FLUTTER/UI/UX/ HTML / CSS
-
-- 🔭 I’m currently working on Food Delivery App and Best Travels BD Android App,Shokol Namajer Niyot App,  Stop_Watch Flutter Apps, WhatsApp_Clone Flutter ui,  
+- 🔭I’m currently working on Bloging Web site using PHP and Laravel Framework.
+- I’m currently working on Food Delivery App and Best Travels BD Android App,Shokol Namajer Niyot App,  Stop_Watch Flutter Apps, WhatsApp_Clone Flutter ui,  
 - 🌱 I’m currently learning Dart & Flutter 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Full Stack Android  App Developer 
