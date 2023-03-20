@@ -12,9 +12,8 @@ Skills: PHP/Laravel/MySQL/HTML5/Bootstrap/Javascript/jQuery/Android/Dart/OOP/Flu
 
 - 🔭I’m currently working on Bloging Web site using PHP and Laravel Framework.
 - I’m currently working on Food Delivery App and Best Travels BD Android App,Shokol Namajer Niyot App,  Stop_Watch Flutter Apps, WhatsApp_Clone Flutter ui,  
-- 🌱 I’m currently learning Dart & Flutter 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Full Stack Android  App Developer 
+- 💬 Ask me about Full Stack Web  Developer 
 - 📫 How to reach me:  Dhanmondi 32 Dhaka ,Bangladesh .Phone : 01776708867 
 
 
