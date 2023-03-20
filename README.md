@@ -6,9 +6,9 @@
 
 Hello! I’m Md Harunur Rashid. Full Stack Web Developer PHP with Laravel Framework. Web Design with 4th year and PHP  Laravel with 6 month of experience specializing in front end and backend development. Experienced with all stages of the development cycle for dynamic web projects.
 
-Having an in-depth knowledge including PHP, LARAVEL, MySQL, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY, OOP, UI/UX, ANDROID, DART, FLUTTER , REST API .
+Having an in-depth knowledge including PHP, Laravel, MySQL, HTML5, Bootstrap, Javascript, jQuery, OOP, UI/UX, Android, Dart, Flutter , REST API .
 
-Skills: PHP/LARAVEL/MySQL/HTML5/BOOTSTRAP/JAVASCRIPT/JQUERY/JAVA/ANDROID/DART/OOP/FLUTTER/UI/UX/
+Skills: PHP/Laravel/MySQL/HTML5/Bootstrap/Javascript/jQuery/Android/Dart/OOP/Flutter/UI/UX/
 
 - 🔭I’m currently working on Bloging Web site using PHP and Laravel Framework.
 - I’m currently working on Food Delivery App and Best Travels BD Android App,Shokol Namajer Niyot App,  Stop_Watch Flutter Apps, WhatsApp_Clone Flutter ui,  
